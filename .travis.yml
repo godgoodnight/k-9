@@ -11,4 +11,4 @@ jdk: oraclejdk8
 sudo: required
 
 script:
-  -./gradlew clean build
+  - ./gradlew clean build
